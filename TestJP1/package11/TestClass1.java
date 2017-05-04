@@ -10,6 +10,8 @@ public class TestClass1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Helllo world");
+		System.out.println("Helllo world2");
+		System.out.println("Helllo world3");
 	}
 
 }
